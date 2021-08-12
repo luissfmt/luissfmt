@@ -8,14 +8,15 @@
 
 <div>
   <a href="https://github.com/luissfmt">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luissfmt&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissfmt&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luissfmt&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissfmt&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="luis-gif" height="150" src="https://media.discordapp.net/attachments/400268317484646400/875355553826738236/bunchie-run.gif?width=316&height=390">
   </div>
   
   ##
