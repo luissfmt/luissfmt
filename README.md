@@ -1,6 +1,5 @@
 ## Hi there, I'm Luis 👨‍💻
 
-- 🔭 <b>Currently work:</b> Administrative Assistant;<br> 
 - 👨‍🎓 <b>Studying:</b> System Analysis and Development at <a href="http://www.unisinos.br/">Unisinos</a>;<br>
 - 🌱 <b>Learning:</b> JavaScript;
 
