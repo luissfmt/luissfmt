@@ -1,7 +1,7 @@
 ## Hi there, I'm Luis 👨‍💻
 
 - 👨‍🎓 <b>Studying:</b> System Analysis and Development at <a href="http://www.unisinos.br/">Unisinos</a>;<br>
-- 🌱 <b>Learning:</b> JavaScript;
+- 🌱 <b>Learning:</b> Web-Development;
 
 ##
 
