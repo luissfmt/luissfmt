@@ -15,7 +15,7 @@
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="luis-gif" height="130" src="https://tenor.com/view/bunchie-run-happy-gif-3367921">
+  <img align="right" alt="luis-gif" height="130" src="https://media.discordapp.net/attachments/789391905980678154/944283294416126032/bunchie-run.gif">
   </div>
   
   ##
