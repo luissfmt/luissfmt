@@ -1,4 +1,5 @@
 - 👨‍🎓 <b>Studying:</b> System Analysis and Development at <a href="http://www.unisinos.br/">Unisinos</a>;<br>
+- 🧑‍💻 <b>Favorite Tech:</b> React + TypeScript;
 
 ##
 
